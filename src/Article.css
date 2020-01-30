@@ -45,3 +45,10 @@ p{
 li {
   margin-left: -50px;
 }
+
+nav{
+  background-color: #BEBEBEBE;
+  width: 150px;
+  display: block;
+  margin-left: 50px;
+}
