@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30f68cef8162257f18a45a1b391f2e30",
+    "revision": "62d923b3ee008d4dff9728aed342aa8d",
     "url": "/semanticWikipedia/index.html"
   },
   {
-    "revision": "858e8cace6afb8d5508a",
-    "url": "/semanticWikipedia/static/css/main.82b07595.chunk.css"
+    "revision": "7aeb77880f03f2f42e69",
+    "url": "/semanticWikipedia/static/css/main.be170052.chunk.css"
   },
   {
     "revision": "c09a515d3018a04306e4",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/semanticWikipedia/static/js/2.c07e5bbd.chunk.js.LICENSE"
   },
   {
-    "revision": "858e8cace6afb8d5508a",
-    "url": "/semanticWikipedia/static/js/main.3009fbc4.chunk.js"
+    "revision": "7aeb77880f03f2f42e69",
+    "url": "/semanticWikipedia/static/js/main.043b1048.chunk.js"
   },
   {
     "revision": "867f663bcc2ff983e85a",

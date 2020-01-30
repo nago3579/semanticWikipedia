@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/semanticWikipedia/precache-manifest.a4139e36b1f7064a540d7e409d91e3f6.js"
+  "/semanticWikipedia/precache-manifest.f0996242e90fd0ac9d960d65bda89efb.js"
 );
 
 self.addEventListener('message', (event) => {

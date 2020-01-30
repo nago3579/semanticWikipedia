@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/semanticWikipedia/static/css/main.82b07595.chunk.css",
-    "main.js": "/semanticWikipedia/static/js/main.3009fbc4.chunk.js",
-    "main.js.map": "/semanticWikipedia/static/js/main.3009fbc4.chunk.js.map",
+    "main.css": "/semanticWikipedia/static/css/main.be170052.chunk.css",
+    "main.js": "/semanticWikipedia/static/js/main.043b1048.chunk.js",
+    "main.js.map": "/semanticWikipedia/static/js/main.043b1048.chunk.js.map",
     "runtime-main.js": "/semanticWikipedia/static/js/runtime-main.f2061d03.js",
     "runtime-main.js.map": "/semanticWikipedia/static/js/runtime-main.f2061d03.js.map",
     "static/js/2.c07e5bbd.chunk.js": "/semanticWikipedia/static/js/2.c07e5bbd.chunk.js",
     "static/js/2.c07e5bbd.chunk.js.map": "/semanticWikipedia/static/js/2.c07e5bbd.chunk.js.map",
     "index.html": "/semanticWikipedia/index.html",
-    "precache-manifest.a4139e36b1f7064a540d7e409d91e3f6.js": "/semanticWikipedia/precache-manifest.a4139e36b1f7064a540d7e409d91e3f6.js",
+    "precache-manifest.f0996242e90fd0ac9d960d65bda89efb.js": "/semanticWikipedia/precache-manifest.f0996242e90fd0ac9d960d65bda89efb.js",
     "service-worker.js": "/semanticWikipedia/service-worker.js",
-    "static/css/main.82b07595.chunk.css.map": "/semanticWikipedia/static/css/main.82b07595.chunk.css.map",
+    "static/css/main.be170052.chunk.css.map": "/semanticWikipedia/static/css/main.be170052.chunk.css.map",
     "static/js/2.c07e5bbd.chunk.js.LICENSE": "/semanticWikipedia/static/js/2.c07e5bbd.chunk.js.LICENSE",
     "static/media/wikipedia-logo.jpg": "/semanticWikipedia/static/media/wikipedia-logo.db968273.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f2061d03.js",
     "static/js/2.c07e5bbd.chunk.js",
-    "static/css/main.82b07595.chunk.css",
-    "static/js/main.3009fbc4.chunk.js"
+    "static/css/main.be170052.chunk.css",
+    "static/js/main.043b1048.chunk.js"
   ]
 }
