@@ -1,5 +1,6 @@
 .wikiTools{
   margin-top: 15px;
+  position: absolute;
 }
 
 .App-link {
@@ -10,9 +11,8 @@
 ul#navLeft{
   list-style-type: none;
   display: inline;
-  margin: 0;
   padding: 0;
-  overflow: hidden; 
+  overflow: hidden;
   background-color: #F5F5F5;
 }
 
@@ -26,8 +26,4 @@ li#right{
   float:right;
   display: inline;
   padding: 14px 16px;
-}
-
-p {
-  display: inline;
 }

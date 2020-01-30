@@ -24,3 +24,9 @@
 img#wikiLogo{
   max-width: 125px;
 }
+
+hr.sideh{
+  align: left;
+  width: 50%;
+  margin-left: 0;
+}

@@ -18,8 +18,8 @@ function App() {
           Talk&nbsp;&nbsp;&nbsp;&nbsp;Contributions&nbsp;&nbsp;&nbsp;&nbsp;Create account&nbsp;&nbsp;&nbsp;&nbsp;Log in
         </a>
         <WikiTools/>
-        <Article/>
         <RightBar/>
+        <Article/>
       </header>
     </div>
   );

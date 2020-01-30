@@ -2,6 +2,9 @@
   margin-right: 10px;
   overflow-x: hidden;
   padding-top: 200px;
+  float: right;
+  width: 20%;
+  display: inline-block;
 }
 
 .app-link {
@@ -20,6 +23,5 @@ img#jelly{
 }
 
 p#infoBox{
-  text-align: left;
   display: block;
 }

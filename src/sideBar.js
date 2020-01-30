@@ -44,7 +44,7 @@ class SideBar extends React.Component{
         </a>
         <div id="breakWiki">
           <p>Interaction</p>
-          <hr></hr>
+          <hr className = "sideh"></hr>
         </div>
         <a className = "app-link"
           href = "http://Wikipedia.org"
@@ -73,7 +73,7 @@ class SideBar extends React.Component{
         </a>
         <div id="breakWiki">
           <p>Tools</p>
-          <hr></hr>
+          <hr className = "sideh"></hr>
         </div>
         <a className = "app-link"
           href = "http://Wikipedia.org"

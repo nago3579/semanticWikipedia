@@ -1,9 +1,13 @@
 .article{
   float:left;
-  margin-top: 50px;
+  margin-top: 0px;
   align-items: left;
   justify-content: left;
   text-align: left;
+  position: absolute;
+  left: 100px;
+  width: 80%;
+  display: inline-block;
 }
 
 p.titleText{
@@ -16,10 +20,16 @@ p.boldText{
   font-size: 18px;
 }
 
+li {
+    margin-top: -40px;
+}
+
 
 hr{
   align: left;
-  width: 150%;
+  width: 75%;
+  margin-left: 50px;
+
 }
 
 .content{
@@ -29,5 +39,9 @@ hr{
 p{
   display: block;
   max-width: 600px;
-  margin: auto;
+  margin-left: 50px;
+}
+
+li {
+  margin-left: -50px;
 }
