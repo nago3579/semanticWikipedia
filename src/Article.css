@@ -1,0 +1,33 @@
+.article{
+  float:left;
+  margin-top: 50px;
+  align-items: left;
+  justify-content: left;
+  text-align: left;
+}
+
+p.titleText{
+  font-size: 30px;
+}
+p.sectionText{
+  font-size: 23px;
+}
+p.boldText{
+  font-size: 18px;
+}
+
+
+hr{
+  align: left;
+  width: 150%;
+}
+
+.content{
+  display: inline-block;
+}
+
+p{
+  display: block;
+  max-width: 600px;
+  margin: auto;
+}
